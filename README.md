@@ -29,7 +29,7 @@ python evaluate.py --conf config/contextnet_ctc.yaml
 ```
 
 ## Performance
-<img src="images/result.PNG" width="50%" height="80">
+<img src="images/result.PNG" width="50%" height="100">
 ![contextnet](images/result.PNG width="50%"/)
 
 ## Reference
