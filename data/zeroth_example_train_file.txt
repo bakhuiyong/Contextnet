@@ -1,0 +1,8 @@
+/home/dkdlenrh/contextnet_ctc/data/example_zeroth/107_003_0389.flac :: 그렇지만 헌법 제 이십 칠 조 형사피고인은 유죄의 판결이 확정될 때까지는 무죄로 추정된다
+/home/dkdlenrh/contextnet_ctc/data/example_zeroth/107_003_0466.flac :: 하지만 이 도마뱀은 어떻게 중력을 거슬러 다리에서부터 몸을 거쳐 입까지 물을 끌어 올릴 수 있습니까
+/home/dkdlenrh/contextnet_ctc/data/example_zeroth/107_003_0571.flac :: 그러나 그 논의가 한국인의 부족함으로 흘러가는 것을 의도하진 않았다고 설명했습니다
+/home/dkdlenrh/contextnet_ctc/data/example_zeroth/107_003_0641.flac :: 이 법은 구상단계에서부터 기업의 자율성을 해친다는 비판은 물론 진짜로 능력이 있는 여성은 쿼터제 없이도 승진한다거나 다수가 아닌 특권층 여성만 혜택을 본다는 반대 의견에 부딪혔다
+/home/dkdlenrh/contextnet_ctc/data/example_zeroth/107_003_0643.flac :: 오는 삼십 일 국회 본회의에서 건보 개편안을 확정하면 당장 내년 칠 월부터 바뀐 보험료를 내야 하고 유예 기간이 끝나는 이천 이십 이 년부터는 대폭 변화가 있을 예정이다
+/home/dkdlenrh/contextnet_ctc/data/example_zeroth/107_003_0678.flac :: 컨테이너 박스 같은 공간을 내주는 곳도 여러 곳이 있다
+/home/dkdlenrh/contextnet_ctc/data/example_zeroth/107_003_0680.flac :: 바다의 물결은 남해 먼바다와 제주도 전 해상에서 이 쩜 공 사 쩜 공 미터로 매우 높게 일겠고 그 밖의 해상에서는 영 쩜 오 이 쩜 오 미터로 일겠다
+/home/dkdlenrh/contextnet_ctc/data/example_zeroth/107_003_0823.flac :: 이런 문제는 최근 흔히들 말하는 작은 결혼식에 대한 이해의 문제에서부터 시작한다

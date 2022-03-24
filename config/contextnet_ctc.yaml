@@ -1,0 +1,22 @@
+dataset:
+  root : ''
+  train: '/home/dkdlenrh/contextnet_ctc/data/zeroth_example_train_file.txt'
+  valid: '/home/dkdlenrh/contextnet_ctc/data/zeroth_test.txt'
+  test: '/home/dkdlenrh/contextnet_ctc/data/zeroth_test.txt'
+setting:
+  model_type: 'context_ctc'
+  loss_type: 'CTCLOSS'
+
+model:
+  out_dim: ???
+
+train:
+  device: 'cuda'
+  batch_size: 4
+  epochs: 450
+  save_epoch: 1
+
+scheduler:
+  dim_model: 176
+  warmup_steps: 10000
+  k: 2
