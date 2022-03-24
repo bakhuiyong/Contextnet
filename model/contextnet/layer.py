@@ -45,8 +45,7 @@ class depthwise_separable_1d_cnn_layer(nn.Module):
     def forward(self, x, x_len):
         
         if x_len is not None:
-            
-            
+          
             if self.stride == 1:
                 x_len = torch.div(x_len - 1, self.stride, rounding_mode='floor') + 1
             else:
