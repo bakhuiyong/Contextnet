@@ -8,7 +8,7 @@ This repository implements speech recognition using Contextnet-CTC.
 
 Contextnet is a speech recognition model using SEnet.
 
-![contextnet](/images/model.PNG)
+<img src="/images/model.PNG" width="70%" height="120">
 
 
 ## Dataset used in the experiment
@@ -30,7 +30,6 @@ python evaluate.py --conf config/contextnet_ctc.yaml
 
 ## Performance
 <img src="images/result.PNG" width="70%" height="120">
-![contextnet](images/result.PNG width="50%"/)
 
 ## Reference
 
