@@ -30,7 +30,9 @@ python evaluate.py --conf config/contextnet_ctc.yaml
 
 ## Performance
 <img src="images/result.PNG" width="70%" height="120">
-
+|Data|Model|CER|WER|Preprocessing|
+|----|------|---|---|-------------|
+|Eval-Clean|Transformer (β=6)|14%|32%|Filter Bank + SpecAugment|
 ## Reference
 
 1. [upskyy / Contextnet](https://github.com/upskyy/ContextNet)
