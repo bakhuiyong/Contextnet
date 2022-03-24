@@ -30,7 +30,7 @@ python evaluate.py --conf config/contextnet_ctc.yaml
 
 ## Performance
 
-![contextnet](images/result.png)
+![contextnet](images/result.PNG)
 
 ## Reference
 
