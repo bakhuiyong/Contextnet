@@ -15,12 +15,7 @@ class contextnet(nn.Module):
         out_dim
     ):
         super(contextnet,self).__init__()
-        
-        
-        self.init_type = "xavier_uniform"
-
-        
-        
+      
         self.encoder = ContextnetEncoder()
         
         self.fc = nn.Linear(256, out_dim)
@@ -35,7 +30,6 @@ class contextnet(nn.Module):
         return preds, enc_out_len
     
     def gready_search_decoding(self, x, x_len):
-    
 
         # Forward Encoder (B, Taud) -> (B, T, Denc)
         logits, logits_len = self.encoder(x, x_len)[:2]
@@ -119,10 +113,7 @@ class contextnet(nn.Module):
             blank_id=0,
             log_probs_input=True
         )
-
-        # index2char, char2index
-        
-        
+      
         # Forward Encoder (B, Taud) -> (B, T, Denc)
         logits, logits_len = self.encoder(x, x_len)[:2]
 
@@ -142,8 +133,6 @@ class contextnet(nn.Module):
         # Batch loop
         for b in range(logits.size(0)):
             batch_pred_list.append(beam_results[b][0][:out_lens[b][0]].tolist())
-
-        
         
         batch_pred_list = batch_pred_list[0]
         batch_pred_list = self.convert(batch_pred_list)
