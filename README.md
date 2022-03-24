@@ -29,9 +29,7 @@ python evaluate.py --conf config/contextnet_ctc.yaml
 ```
 
 ## Performance
-<img src="images/result.PNG" width="70%" height="120">
-
-|Data|Model|CER|decoding|
+|Data|Model|CER|Decoding|
 |----|------|---|-------------|
 |Zeroth test data|Contextnet-CTC|9.58%|beam search|
 ## Reference
