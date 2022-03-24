@@ -8,8 +8,7 @@ This repository implements speech recognition using Contextnet-CTC.
 
 Contextnet is a speech recognition model using SEnet.
 
-![contextnet](images/model.png)
-
+<img src="images/model.png" width="50%"/>
 
 
 ## Dataset used in the experiment
